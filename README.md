@@ -1,2 +1,1 @@
-# ReinfLearning
-# Code for Reinforcement Learning
+# Code for Modern Reinforcement Learning -- Udemy Course
